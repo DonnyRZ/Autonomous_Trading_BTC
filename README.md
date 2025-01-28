@@ -1,4 +1,4 @@
-# MTAM Bitcoin Backtesting (TA-Lib Free)
+# MTAM Bitcoin Backtesting
 
 ## Overview
 This Python script is designed for backtesting a Bitcoin trading strategy using **Vectorbt** and **Plotly**. It processes **1-minute BTC data**, applies multiple timeframes, calculates indicators, generates trading signals, and performs backtesting from **2012 to 2020**.
